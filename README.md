@@ -42,24 +42,6 @@ Contributions are welcome! If you have any suggestions or improvements, feel fre
 - [`@react-three/postprocessing`](https://github.com/pmndrs/react-postprocessing) &ndash;  Postprocessing wrapper for react-three-fiber
 - [`react-spring`](https://react-spring.dev/) &ndash; Javascript animation
 
-# 3D Portfolio [R3F]
-<div align="center">
- <img src='https://user-images.githubusercontent.com/78056869/181472860-136ef7ea-f92d-42f3-b978-706e6ab85b66.jpg' />
-</div>
-<br />
-
-## Wave Shaders
-<div align="center">
- <img src='https://user-images.githubusercontent.com/78056869/181474534-404a8b81-04f6-4031-84d4-9798239a1bf1.jpg' />
-</div>
-<br />
-
-## Clump Physics
-<div align="center">
- <img src='https://user-images.githubusercontent.com/78056869/181474076-3e877bf8-e382-4544-92a1-f5516e2fd9d3.jpg' />
-</div>
-<br />
-
 
 ## License
 
