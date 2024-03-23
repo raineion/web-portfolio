@@ -3,8 +3,8 @@ import Head from 'next/head'
 const titleDefault = 'Daniel Martinez Julio'
 const url = 'https://danielmj.vercel.app/'
 const description =
-  'Daniel Martinez is a Software Engineer that;s proficient in React, Three.js, and other technologies. He is also a creative developer that loves to create interactive experiences.'
-const author = 'Joseph Dale Bañares'
+  'Daniel Martinez is a Software Engineer thats proficient in React, Three.js, and other technologies. He is also a creative developer that loves to create interactive experiences.'
+const author = 'Daniel Martinez Julio'
 
 const Header = ({ title = titleDefault }) => {
   return (

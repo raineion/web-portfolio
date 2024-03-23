@@ -28,7 +28,7 @@ export const Navbar: React.FC = ({}) => {
         className='text-xl cursor-pointer font-fog mix-blend-difference'
         onClick={() => router.push('/')}
       >
-        Dale B.
+        Martinez J.
       </span>
       <ul className='flex text-sm font-light tracking-wider space-x-4  md:space-x-10 font-ubuntu [&>*]:cursor-pointer [&>*]:leading-none [&>*:hover]:text-white [&>*]:transition-all'>
         {navItems.map((item) => {
