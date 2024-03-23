@@ -30,19 +30,19 @@ const ProjectsShader: React.FC = () => {
       url: 'https://github.com/raineion/Physics-Engine',
     },
 
-    {
-      title: 'Tres',
-      position: [-0.1, -3 + posY, -0.09],
-      src: '/img/projects/hello.jpg',
-      url: 'https://chatti.vercel.app',
-    },
+    // {
+    //   title: 'Tres',
+    //   position: [-0.1, -3 + posY, -0.09],
+    //   src: '/img/projects/hello.jpg',
+    //   url: 'https://chatti.vercel.app',
+    // },
 
-    {
-      title: 'Cuatro',
-      position: [0.1, -4 + posY, -0.09],
-      src: '/img/projects/head.jpg',
-      url: 'https://github.com/hyamero',
-    },
+    // {
+    //   title: 'Cuatro',
+    //   position: [0.1, -4 + posY, -0.09],
+    //   src: '/img/projects/head.jpg',
+    //   url: 'https://github.com/hyamero',
+    // },
   ]
 
   const { width } = useThree((state) => state.viewport)
