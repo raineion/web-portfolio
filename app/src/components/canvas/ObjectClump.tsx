@@ -44,7 +44,7 @@ const ObjectClump = ({}) => {
           </Html>
         }
       >
-        <Title>{'hyamero@daleban.tech'}</Title>
+        <Title>{'dan.martinezjulio@gmail.com'}</Title>
         <Physics gravity={[0, 5, 0]} iterations={10}>
           <Pointer />
           <Balls />
