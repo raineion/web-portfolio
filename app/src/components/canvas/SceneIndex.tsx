@@ -46,8 +46,8 @@ const SceneIndex = ({}) => {
         }
       >
         <Model position={[0, -6, 0]} rotation={[0, -0.2, 0]} />
-        <Title>{`Joseph Dale`}</Title>
-        <TitleL>{`Joseph Dale`}</TitleL>
+        <Title>{`Daniel Martinez`}</Title>
+        <TitleL>{`Daniel Martinez`}</TitleL>
         <Sparkles count={60} scale={[20, 20, 10]} size={1} speed={2} />
       </Suspense>
       <EffectComposer multisampling={0} disableNormalPass={true}>

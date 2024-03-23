@@ -17,17 +17,17 @@ const ProjectsShader: React.FC = () => {
 
   const images = [
     {
-      title: 'Uno',
+      title: 'Blog',
       position: [-0.1, -1 + posY, -0.09],
-      src: '/img/projects/iphone.jpg',
-      url: 'https://iphone-config.vercel.app/',
+      src: '/img/projects/blog-logo.jpg',
+      url: 'https://github.com/DanielMartinezAGT/blog-platform',
     },
 
     {
-      title: 'Dos',
+      title: 'Engine',
       position: [0.1, -2 + posY, -0.09],
-      src: '/img/projects/laptop.jpg',
-      url: 'https://umamin.link/',
+      src: '/img/projects/engine.jpg',
+      url: 'https://github.com/raineion/Physics-Engine',
     },
 
     {
