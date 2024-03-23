@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;1,300;1,400&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    box-sizing: border-box;
+  }
+
+  html,
+  body,
+  #__next {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: auto;
+  }
+
+  body {
+    background-color: #050505;
+  }
+}
+
+@font-face {
+  font-family: 'FogtwoNo5';
+  src: url(/fogtwoNo5.otf);
+}
+
+.hover-effect {
+  cursor: pointer;
+  position: relative;
+}
+
+.hover-effect:after {
+  content: '';
+  position: absolute;
+  width: 0;
+  height: 1px;
+  display: block;
+  right: 0;
+  background: white;
+  -webkit-transition: 0.4s ease;
+  transition: 0.4s ease;
+}
+
+.hover-effect:hover:after {
+  width: 100%;
+  left: 0;
+}
