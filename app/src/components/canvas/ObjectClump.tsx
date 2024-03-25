@@ -137,7 +137,7 @@ const Title = ({ children }) => {
       material-toneMapped={false}
       anchorX='center'
       anchorY='middle'
-      onClick={() => (window.location.href = 'mailto:hyamero@daleban.tech')}
+      onClick={() => (window.location.href = 'mailto:dan.martinezjulio@gmail.com')}
       onPointerEnter={() => (document.body.style.cursor = 'pointer')}
       onPointerLeave={() => (document.body.style.cursor = 'auto')}
     >

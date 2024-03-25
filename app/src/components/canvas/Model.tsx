@@ -5,7 +5,6 @@ import { useFrame } from '@react-three/fiber'
 import { GLTF } from 'three-stdlib'
 import { Lights } from './Lights'
 
-// "HEAD OF A BEARDED MAN - BRITISH MUSEUM 2020" (https://skfb.ly/6QZCD) by Arqueomodel3D is licensed under Creative Commons Attribution-NonCommercial (http://creativecommons.org/licenses/by-nc/4.0/).
 
 type GLTFResult = GLTF & {
   nodes: {
