@@ -2,14 +2,39 @@
   "version": 2,
   "builds": [
     {
-      "src": "./server.js",
-      "use": "@vercel/node"
+      "src": "app/next.config.js",
+      "use": "@vercel/next"
     }
   ],
   "routes": [
     {
       "src": "/(.*)",
-      "destination": "/"
+      "dest": "app/$1"
     }
-  ]
+  ],
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/app/$1" }
+  ],
+  "redirects": [
+    {
+      "source": "/old-path",
+      "destination": "/new-path",
+      "permanent": true
+    }
+  ],
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "X-Custom-Header",
+          "value": "my custom value"
+        }
+      ]
+    }
+  ],
+  "env": {
+    "CUSTOM_ENV_VARIABLE": "value"
+  },
+  "public": false
 }
