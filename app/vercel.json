@@ -1,6 +1,25 @@
 {
   "routes": [
-    { "handle": "filesystem" },
-    { "src": "/.*", "dest": "/index.html" }
+    {
+      "src": "HOME",
+      "dest": "/",
+      "headers": {
+        "Cache-Control": "s-maxage=0"
+      }
+    },
+    {
+      "src": "/projects",
+      "dest": "/projects",
+      "headers": {
+        "Cache-Control": "s-maxage=0"
+      }
+    },
+    {
+      "src": "/contact",
+      "dest": "/contact",
+      "headers": {
+        "Cache-Control": "s-maxage=0"
+      }
+    }
   ]
-} 
+}
