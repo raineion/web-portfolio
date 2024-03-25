@@ -35,7 +35,7 @@ Make sure to include these dependencies in your project.
 
 If you have any questions, collaboration opportunities, or just want to say hello, feel free to reach out to me:
 
-- Email: [dan.mmartinezjulio@gmail.com](mailto:dan.martinezjulio@gmail.com)
+- Email: [dan.martinezjulio@gmail.com](mailto:dan.martinezjulio@gmail.com)
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/daniel-martinez-julio-b7911a260/)
 
 I look forward to connecting with you!
