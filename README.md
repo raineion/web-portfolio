@@ -1,6 +1,10 @@
-# Interactive Website using Three.js, CSS, and HTML
+# My Website
 
-This repository contains an interactive website built using Three.js, CSS, and HTML. The website showcases a variety of interactive 3D graphics and animations created with the Three.js library.
+Welcome to my website! This is where I showcase my projects, share my thoughts, and connect with the community.
+
+## About Me
+
+I am a passionate software developer with experience in various programming languages. As a current student at the University of Nevada, Las Vegas, I am constantly expanding my knowledge and skills in software development. I enjoy creating intuitive and user-friendly interfaces that bring ideas to life. With a strong foundation in web development, I strive to build responsive websites that provide a seamless user experience.
 
 ## Features
 
@@ -26,6 +30,15 @@ The website relies on the following dependencies:
 - HTML: Hypertext Markup Language for structuring the website.
 
 Make sure to include these dependencies in your project.
+
+## Contact Me
+
+If you have any questions, collaboration opportunities, or just want to say hello, feel free to reach out to me:
+
+- Email: [dan.mmartinezjulio@gmail.com](mailto:dan.martinezjulio@gmail.com)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/daniel-martinez-julio-b7911a260/)
+
+I look forward to connecting with you!
 
 ## Contributing
 
