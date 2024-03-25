@@ -1,12 +1,12 @@
-# My Website
+# My Website 🚀
 
 Welcome to my website! This is where I showcase my projects, share my thoughts, and connect with the community.
 
-## About Me
+## About Me 🧑‍💻
 
 I am a passionate software developer with experience in various programming languages. As a current student at the University of Nevada, Las Vegas, I am constantly expanding my knowledge and skills in software development. I enjoy creating intuitive and user-friendly interfaces that bring ideas to life. With a strong foundation in web development, I strive to build responsive websites that provide a seamless user experience.
 
-## Features
+## Features ⚙️
 
 - Interactive 3D graphics and animations
 - Smooth camera controls
@@ -21,7 +21,7 @@ To run the website locally, follow these steps:
 2. Open the `index.html` file in your web browser.
 3. Explore the interactive 3D graphics and animations.
 
-## Dependencies
+## Dependencies 
 
 The website relies on the following dependencies:
 
@@ -31,7 +31,7 @@ The website relies on the following dependencies:
 
 Make sure to include these dependencies in your project.
 
-## Contact Me
+## Contact Me ✈️
 
 If you have any questions, collaboration opportunities, or just want to say hello, feel free to reach out to me:
 
@@ -40,7 +40,7 @@ If you have any questions, collaboration opportunities, or just want to say hell
 
 I look forward to connecting with you!
 
-## Contributing
+## Contributing 
 
 Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
 
