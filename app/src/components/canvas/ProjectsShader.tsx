@@ -30,12 +30,12 @@ const ProjectsShader: React.FC = () => {
       url: 'https://github.com/raineion/Physics-Engine',
     },
 
-    // {
-    //   title: 'Tres',
-    //   position: [-0.1, -3 + posY, -0.09],
-    //   src: '/img/projects/hello.jpg',
-    //   url: 'https://chatti.vercel.app',
-    // },
+    {
+      title: 'Ping Pong',
+      position: [-0.1, -3 + posY, -0.09],
+      src: '/img/projects/pong.jpg',
+      url: 'https://github.com/raineion/ping-pong-game',
+    },
 
     // {
     //   title: 'Cuatro',
