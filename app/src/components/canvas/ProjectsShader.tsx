@@ -37,12 +37,12 @@ const ProjectsShader: React.FC = () => {
       url: 'https://github.com/raineion/ping-pong-game',
     },
 
-    // {
-    //   title: 'Cuatro',
-    //   position: [0.1, -4 + posY, -0.09],
-    //   src: '/img/projects/head.jpg',
-    //   url: 'https://github.com/hyamero',
-    // },
+    {
+      title: 'Flight Tracker',
+      position: [0.1, -4 + posY, -0.09],
+      src: '/img/projects/787.jpg',
+      url: 'https://github.com/raineion/flight-tracker',
+    },
   ]
 
   const { width } = useThree((state) => state.viewport)
